@@ -4,7 +4,7 @@ sudo rm /var/lib/mosquitto/mosquitto.db
 sudo service apache2 stop
 
 python3 manage.py flush --no-input
-python3 manage.py loaddata ../docs/db.json
+python3 manage.py loaddata ../Documentation/docs/db.json
 
 sudo service apache2 start
 sudo service mosquitto start
