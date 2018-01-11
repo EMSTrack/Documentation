@@ -1,6 +1,1 @@
-READ THIS BEFORE INSTALLING!
-
-If you have a Mac, use mac-installation.txt. If you have linux,
-use linux-installation.txt. If you have windows, you should either
-virtual box or dual boot. If all else fails, follow the docker installation
-guide.
+You can also manually install the Web Server directly onto your machine. If you have a Mac, follow instructions in mac-installation.txt. If you have linux, follow instructions in linux-installation.txt. If you have windows, you should either virtual box or dual boot.
